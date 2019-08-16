@@ -1,4 +1,4 @@
 # Hello GitHub
-And everyone reading this (⁀ ᗢ ⁀)
+And everyone reading this ಠ◡ಠ
 
 ![](cartoon.png)
